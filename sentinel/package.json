@@ -2,6 +2,6 @@
   "name": "c2e-exp-sentinel",
   "version": "1.0.0",
   "dependencies": {
-    "has-flag": "4.0.0"
+    "has-flag": "5.0.1"
   }
 }
