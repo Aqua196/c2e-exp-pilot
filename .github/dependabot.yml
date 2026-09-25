@@ -8,3 +8,4 @@ updates:
     directory: "/sentinel"
     schedule:
       interval: "yearly"
+# c2e-touch 6f1e8d3c
